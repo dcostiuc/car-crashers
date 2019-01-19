@@ -59,7 +59,7 @@ This is visualized by having the block slowly become more red.
 There is no cap for these increases, thus the game will always become exponentially hard after 20 blocks, 
 and will be impossible without cheating after 30. 
 
-The purpose of this is to not make the game-play indefinite, and instead make it fun and challenging to get higher scores.
+The purpose of this is to not make the gameplay indefinite, and instead make it fun and challenging to get higher scores.
 
 It is also fun to test the cheat/AI mode and see the highest score that it can get.
 
