@@ -12,11 +12,13 @@ Play as a car that avoids falling blocks!
 
 If the block hits your car, or your car hits the borders of the window, you will crash (the car).
 
-With each block that falls down, the `speed` and `width` of the block increases, thus increasing difficulty.  
+With each block that falls down, the `speed` and `width` of the block increases, thus increasing difficulty. 
+
 This is visualized by having the block slowly become more red.
 
 There is no limit for these increases, so the game will always become _exponentially hard_ after around `20` blocks,   
-and will be _impossible_ without "cheating" after `30` 😅. 
+and will be _impossible_ without "cheating" after `30` 😅.   
+
 This makes it fun and challenging for the player to obtain higher scores!
 
 <details>
