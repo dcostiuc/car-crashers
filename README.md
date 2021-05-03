@@ -23,7 +23,7 @@ This makes it fun and challenging for the player to obtain a higher score!
 
 <details>
   <summary>Easter Egg</summary>  
-  It is also fun to test the "cheat"/AI mode and see the highest score that it can get. See Controls section for more information.
+  It is also fun to test the "cheat"/AI mode and see the highest score that it can get. See the Controls section for more information.
 </details>
 
 
