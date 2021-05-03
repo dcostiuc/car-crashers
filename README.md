@@ -48,14 +48,19 @@ Features
 
 Controls
 ---------
-Use the mouse to click on buttons and navigate through the screens.
+Use the `mouse` to click on buttons and navigate through the screens.
 
-Select a car by clicking on it.
+Select a car by `clicking` on it.
 
-When in-game, use left and right arrow keys to move the car.
+When in-game, use `left` and `right` arrow keys to move the car.
 
-Press and hold shift to give yourself boosts (or hold to always go fast).
+Press and hold `shift` to give yourself boosts (or simply hold `shift` to always go fast).
 
+Press `p` while playing as the car to pause the game, and press `p` again or click `Continue` to resume.
+
+Press `q` while playing as the car to quit the game, or click on `Quit` whenever it is shown.
+
+Press `b` to go back from the high-score screen to the game over screen, or click on the `Back` button.
 
 Toggle `g` for "cheat"/AI mode:  
 <details>
@@ -66,9 +71,3 @@ Toggle `g` for "cheat"/AI mode:
   
   Due to the nature of the game, you will still inevitably crash around a certain point even with the AI's help.
 </details>
-
-Press `p` while playing as the car to pause the game, and press `p` again or click `Continue` to resume.
-
-Press `q` while playing as the car to quit the game, or click on `Quit` whenever it is shown.
-
-Press `b` to go back from the high-score screen to the game over screen, or click on the `Back` button.
