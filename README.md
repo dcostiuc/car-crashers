@@ -1,5 +1,5 @@
 # ![An orange car representing the game logo](https://github.com/dan440402/car-crashers/blob/master/icon.png "Game Logo")  Car Crashers Game
-By Daniel Costiuc
+By Daniel Costiuc  
 Version 3
 
 _Created using Python 3 and Pygame.
