@@ -17,7 +17,7 @@ With each block that falls down, the `speed` and `width` of the block increases,
 This is visualized by having the block slowly become more red.
 
 There is no limit for these increases, so the game will always become _exponentially hard_ after around `20` blocks,   
-and will be _impossible_ without "cheating" after `30` 😅.   
+and will be _impossible_ without "cheating" after `30` blocks 😅.   
 
 This makes it fun and challenging for the player to obtain higher scores!
 
