@@ -25,7 +25,7 @@ This makes it fun and challenging for the player to obtain a higher score!
   <summary> Easter Egg </summary>  
   It is also fun to test the "cheat"/AI mode and see the highest score that it can get. 
   
-  ... See the Controls section for more information.
+  <br> See the Controls section for more information.
 </details>
 
 
@@ -66,8 +66,8 @@ Toggle `g` for "cheat"/AI mode:
 <details>
   <summary> Spoilers </summary>  
   
-  ...The game will be played for you through a basic AI, and you may find it hard to move the car manually while in this mode. ...
-  &nbsp;&nbsp;&nbsp;&nbsp; The original idea was to test the AI, though you can try to move it if you would like to.  
+  <br> The game will be played for you through a basic AI, and you may find it hard to move the car manually while in this mode.
+  <br> &nbsp;&nbsp;&nbsp;&nbsp; The original idea was to test the AI, though you can try to move it if you would like to.  
   
   Due to the nature of the game, you will still inevitably crash around a certain point even with the AI's help.
 </details>
