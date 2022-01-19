@@ -46,6 +46,14 @@ Features
 - Functioning buttons
 
 
+To Run
+---------
+Clone or download this repo and run the `CarCrashersV4.py` file.  
+
+Note that you must have some version of [Python 3](https://www.python.org/downloads/) installed (e.g. Python 3.6+).  
+You must also have [Pygame](https://www.pygame.org/wiki/GettingStarted) installed (i.e. `pip install pygame` within a command-line program such as cmd or bash).
+
+
 Controls
 ---------
 Use the `mouse` to click on buttons and navigate through the screens.
