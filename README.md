@@ -79,3 +79,8 @@ Toggle `g` for "cheat"/AI mode:
   
   Due to the nature of the game, you will still inevitably crash around a certain point even with the AI's help.
 </details>
+
+Gameplay
+---------
+![Car Crashers Gameplay](https://github.com/dcostiuc/car-crashers/blob/master/CarCrashersGameplay.gif)  
+Note: The GIF's FPS is really jittery. Actual FPS is a lot smoother.
